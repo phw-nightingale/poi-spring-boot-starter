@@ -18,7 +18,7 @@ import xyz.frt.poi.service.PoiServiceImpl;
 
 public class PoiTest {
 	
-	@Test
+	
 	public void test() throws EncryptedDocumentException, InvalidFormatException, IOException {
 		
 		PoiService service = new PoiServiceImpl(2, 5, 1);
