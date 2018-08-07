@@ -122,7 +122,7 @@ UserCard [cid=652000000000000000, name=外星人, cardNo=88888888888888, unit=�
 ```
 附上Excel表格:
 
-![Excel](http://119.29.65.188:8080/examples/excel.png  "Excel表格")
+![Excel](http://119.29.65.188:8080/examples/excel2.png "Excel表格")
 ## 7.最后
 ```
 如果你发现有Bug或者有好的建议，欢迎联系作者。
