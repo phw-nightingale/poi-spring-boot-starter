@@ -125,8 +125,8 @@ UserCard [cid=652000000000000000, name=外星人, cardNo=88888888888888, unit=�
 ![Excel](http://119.29.65.188:8080/examples/excel.png "Excel表格")
 ## 7.最后
 ```
-项目刚刚发布，难免会有很多Bug。
 如果你发现有Bug或者有好的建议，欢迎联系作者。
+如果你觉得此项目对你有帮助，请在最上方为作者添加一颗Star。
 作者:four-roud-titans
 邮箱:937855602@qq.com
 QQ:937855602
